@@ -1,0 +1,2 @@
+python theLifeGame.py
+pause
